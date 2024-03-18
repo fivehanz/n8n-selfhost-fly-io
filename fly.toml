@@ -11,8 +11,8 @@ primary_region = "cdg"
   destination="/home/node/.n8n"
 
 [env]
-  # N8N_HOST = "jolly-n8n.fly.dev" # <your-app-name>.fly.dev
-  # WEBHOOK_URL = "https://jolly-n8n.fly.dev" # https://<your-app-name>.fly.dev
+  N8N_HOST = "n8n.hanz.lol" # <your-app-name>.fly.dev
+  WEBHOOK_URL = "https://n8n.hanz.lol" # https://<your-app-name>.fly.dev
   TINI_SUBREAPER = "true"
   N8N_DIAGNOSTICS_ENABLED = "false" # optional
   N8N_HIRING_BANNER_ENABLED = "false" # optional
